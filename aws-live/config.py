@@ -1,0 +1,6 @@
+customhost = "database.cco8xayvtuwk.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "sj123456"
+customdb = "employee"
+custombucket = "mynewitwingsbucket"
+customregion = "us-east-1"
